@@ -1,3 +1,5 @@
+**Esse projeto foi realizado como Desafio de Código Do Bootcamp Nexa - Fundamentos de IA Generativa com Bedrock da DIO.**
+
 ✨ **Título do Projeto**
 
 "A Essência de uma Analista de Projetos — Realismo Corporativo Aesthetic"
@@ -65,3 +67,5 @@ Criar algo que pareça “natty” — isto é, naturalmente humano — usando I
 - coerência visual do cenário.
 
 **Esse projeto reforça como o uso consciente e técnico da IA consegue gerar resultados surpreendentemente autênticos, sem perder a sensibilidade humana que dá vida à cena.**
+
+
