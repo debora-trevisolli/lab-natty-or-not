@@ -1,4 +1,4 @@
-**Esse projeto foi realizado como Desafio de Projeto Do Bootcamp Nexa - Fundamentos de IA Generativa com Bedrock da empresa DIO.**
+**Desafio de Projeto Do Bootcamp Nexa - Fundamentos de IA Generativa com Bedrock da empresa DIO.**
 **Para visualizar a imagem criada, clique no arquivo: imagem hiper-realista** 
 
 ✨ **Título do Projeto**
