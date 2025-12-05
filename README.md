@@ -69,4 +69,8 @@ Criar algo que pareça “natty” — isto é, naturalmente humano — usando I
 
 **Esse projeto reforça como o uso consciente e técnico da IA consegue gerar resultados surpreendentemente autênticos, sem perder a sensibilidade humana que dá vida à cena.**
 
+Acesse meu Portfólio:
+https://debora-trevisolli.notion.site/Portf-lio-Profissional-Debora-Trevisolli-Roncardi-27979dfdf514807ea590c783eedbe83d
 
+Acesse meu Linkedin:
+www.linkedin.com/in/debora-trevisolli-roncardi
